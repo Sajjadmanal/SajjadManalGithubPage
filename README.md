@@ -1,4 +1,5 @@
-SajjadManalGithubPage
+Sajjad Manal Github Page
 =====================
 
-thisismygithubpage
+This is my github page.
+sajjadmanal24@gmail.com
